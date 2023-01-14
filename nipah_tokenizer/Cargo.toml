@@ -3,6 +3,12 @@ name = "nipah_tokenizer"
 version = "0.1.0"
 edition = "2021"
 authors = ["nipah~☆!"]
+description = "A powerful yet simple text tokenizer for your everyday needs!"
+repository = "https://github.com/JoaoVictorVP/nipah_tokenizer"
+license-file = "../LICENSE.txt"
+readme = "../README.md"
+keywords = ["tokenizer", "texts", "nlp", "words", "token"]
+categories = ["text-processing", "parsing", "compilers", "game-development"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
