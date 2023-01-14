@@ -1,2 +1,6 @@
 /target
 /Cargo.lock
+console/target
+console/Cargo.lock
+nipah_tokenizer/target
+nipah_tokenizer/Cargo.lock
